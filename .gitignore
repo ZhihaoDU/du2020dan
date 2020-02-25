@@ -1,0 +1,8 @@
+.idea/
+.bak/
+Checkpoints/
+Tensorboard/
+__pycache__/
+configs/
+debug/
+log/
